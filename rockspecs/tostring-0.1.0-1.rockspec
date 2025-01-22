@@ -1,7 +1,8 @@
 package = "tostring"
-version = "dev-1"
+version = "0.1.0-1"
 source = {
     url = "git+https://github.com/mah0x211/lua-tostring.git",
+    tag = "v0.1.0",
 }
 description = {
     summary = "This module takes arguments of any type and converts them into a human-readable string representation.",
