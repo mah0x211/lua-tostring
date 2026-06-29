@@ -20,10 +20,11 @@
  *  DEALINGS IN THE SOFTWARE.
  */
 
-#include <stdio.h>
 // lua
 #include <lauxlib.h>
-#include <lua.h>
+
+// system
+#include <stdio.h>
 
 static int tostring_lua(lua_State *L)
 {
